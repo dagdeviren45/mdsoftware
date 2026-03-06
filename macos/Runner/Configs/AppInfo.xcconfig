@@ -8,7 +8,7 @@
 PRODUCT_NAME = portfoy360
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.portfoy360.portfoy360
+PRODUCT_BUNDLE_IDENTIFIER = com.usta360pro.com
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2026 com.portfoy360. All rights reserved.
